@@ -1,0 +1,19 @@
+{
+  "config": {
+    "datapack_manifest_url": "https://raw.githubusercontent.com/MYSOREZ/GeneralsZH-Android-Port/updates/datapack-manifest.json",
+    "logic_crc_revision": "0",
+    "pc_crossplay": "0",
+    "pc_exe_crc": "1",
+    "stun_servers": "stun:stun.playgenerals.online:3478,stun:stun.l.google.com:19302,stun:stun.playgenerals.online:53",
+    "turn_servers": "turn:turn.playgenerals.online:3478,turn:turn.playgenerals.online:53"
+  },
+  "note": "Support card: heroes, announcement window",
+  "published": "2026-10-18",
+  "schema": 1,
+  "serial": 2,
+  "support": {
+    "sha256": "1973e994103af09a73b8806c3a9a0e43e95a05e86cd7811c63c83454833be95f",
+    "size": 29032,
+    "url": "https://raw.githubusercontent.com/MYSOREZ/GeneralsZH-Android-Port/updates-test/support/1973e994103af09a.json"
+  }
+}
